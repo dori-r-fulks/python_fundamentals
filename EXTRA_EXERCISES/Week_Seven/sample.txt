@@ -1,0 +1,3 @@
+Hello from a file!
+Hope you're having a GREAT day!
+Don't forget to smile :)
